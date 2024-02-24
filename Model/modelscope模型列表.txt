@@ -1,0 +1,17 @@
+CT-Transformer标点-中文-通用-pytorch
+“punc_ct-transformer_zh-cn-common-vocab272727-pytorch”
+
+
+FSMN语音端点检测-中文-通用-16k
+“speech_fsmn_vad_zh-cn-16k-common-pytorch”
+
+
+Paraformer语音识别-中文-通用-16k-离线-large-pytorch
+“speech_paraformer-large_asr_nat-zh-cn-16k-common-vocab8404-pytorch”
+
+
+Paraformer语音识别-中文-通用-16k-离线-large-长音频版
+“speech_paraformer-large-vad-punc_asr_nat-zh-cn-16k-common-vocab8404-pytorch”
+
+
+
